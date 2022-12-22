@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @felipenpp
 - 👀 I’m interested in web development. Also looking to learn about development and deploy of webservices and apis for healthcare information systems.
-- 🌱 I’m currently learning php.
+- 🌱 I’m currently learning Java.
 
 
 <!---
